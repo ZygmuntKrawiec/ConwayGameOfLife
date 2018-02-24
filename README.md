@@ -1,5 +1,5 @@
 # ConwayGameOfLife
-=====================
+
 
 A simple Conway game of life. 
 Contains:
